@@ -76,6 +76,17 @@ background-color:rgba(255,255,255,.5);
 border:none;
 }
 
+/* SPACERS ======================================== */
+
+.small-divider{
+margin:20px;
+}
+
+.medium-divider{
+margin:50px;
+}
+
+
 /* FOOTER ======================================== */
 
 .across{
