@@ -1,5 +1,9 @@
 ## Display of development site for Greenstand.org
 
-For now, we are working off a live branch in Typo3.. It should be in sync with the master shortly. 
+To contribute work in this repository please fork!
 
-To Contribute... make issues or reach out in slack
+Live at greenstand.treetracker.org
+
+Hosted on Github pages, using bootstrap
+
+2018-06-01 start of the new website for easier collaboration
